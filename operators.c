@@ -10,4 +10,4 @@ int main()
     printf("the value of a/b=%d\n",a/b);
     return 0; 
 }    
-
+    
